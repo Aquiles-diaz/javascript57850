@@ -1,181 +1,181 @@
 [
     {
-        "id": "vianda-01",
-        "titulo": "Pizza Muzarella",
-        "imagen": "./",
+        "id": "Samsung-A14",
+        "titulo": "Samsung Galaxy A14",
+        "imagen": "./img/Samsung-Galaxy-A14.webp",
         "categoria": {
-            "nombre": "Pizzas",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 5300
+        "precio": 98.999
     },
     {
-        "id": "vianda-02",
-        "titulo": "Pizza Roquefort",
-        "imagen": "./img/vianda02.jpg",
+        "id": "Samsung-S23",
+        "titulo": "Samsung Galaxy S23",
+        "imagen": "./img/Samsung-Galaxy-S23.webp",
         "categoria": {
-            "nombre": "Pizzas",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 3000
+        "precio": 553.999
     },
     {
-        "id": "vianda-03",
-        "titulo": "Pizza De Pollo",
-        "imagen": "./img/vianda03.jpg",
+        "id": "Samsung-A04",
+        "titulo": "Samsung Galaxy A04",
+        "imagen": "./img/Samsung-Galaxy-A04.webp",
         "categoria": {
-            "nombre": "Pizzas",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 2700
+        "precio": 87.999
     },
     {
-        "id": "vianda-04",
-        "titulo": "Pizza Especial",
-        "imagen": ".",
+        "id": "Samsung-A54",
+        "titulo": "Samsung Galaxy A54",
+        "imagen": "./img/Samsung-Galaxy-A54.webp",
         "categoria": {
-            "nombre": "Pizzas",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 1800
+        "precio": 306.999
     },
     {
-        "id": "vianda-05",
-        "titulo": "Pizza margarita ",
-        "imagen": "./img/vianda05.webp",
+        "id": "Samsung-S24",
+        "titulo": "Samsung Galaxy Z Fold5 ",
+        "imagen": "./img/Galaxy-Z-Fold5.webp",
         "categoria": {
-            "nombre": "Pizzas",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 1600
+        "precio": 899.999
     },
     {
-        "id": "preferido-01",
-        "titulo": "Pizza cuatro quesos ",
-        "imagen": "./img/preferido01.jpg",
+        "id": "Samsung-Z-Flip5",
+        "titulo": "Samsung Galaxy Z Flip5",
+        "imagen": "./img/Galaxy-Z-Flip5.webp",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 1800
+        "precio": 1800000
     },
     {
-        "id": "preferido-02",
-        "titulo": "Pizza de pepperoni",
-        "imagen": "./img/preferido02.jpg",
+        "id": "Samsung-A54",
+        "titulo": "Samsung Galaxy-A54",
+        "imagen": "./img/Galaxy-A54.webp",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 4000
+        "precio": 700000
     },
     {
         "id": "preferido-03",
-        "titulo": "Pizza napolitana ",
-        "imagen": "./img/preferido03.jpg",
+        "titulo": "Samsung Galaxy S20",
+        "imagen": "./img/zflip.jpg",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Pizzas"
+            "nombre": "Samsung",
+            "id": "Samsung"
         },
-        "precio": 2700
+        "precio": 614000
     },
     {
-        "id": "preferido-04",
-        "titulo": "Milanesa a Caballo",
-        "imagen": "./img/preferido04.webp",
+        "id": "Moto-G13-SE",
+        "titulo": "Moto-G13-SE",
+        "imagen": "./img/Moto-G13-SE.png",
         "categoria": {
-            "nombre": "Milanesas",
-            "id": "Milanesas"
+            "nombre": "Motorola",
+            "id": "Motorola"
         },
-        "precio": 3500
+        "precio": 350000
     },
     {
-        "id": "preferido-05",
-        "titulo": "Milanesa c/cheddar",
-        "imagen": "./",
+        "id": "Moto-G22",
+        "titulo": "Moto-G22",
+        "imagen": "./img/Moto-G22.png",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Milanesas"
+            "nombre": "Motorola",
+            "id": "Motorola"
         },
-        "precio": 4400
+        "precio": 440000
     },
     {
-        "id": "preferido-06",
-        "titulo": "Milanesa Cuarentini",
-        "imagen": "./",
+        "id": "Moto-G42",
+        "titulo": "Moto-G42",
+        "imagen": "./img/Moto-G42.png",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Milanesas"
+            "nombre": "Motorola",
+            "id": "Motorola"
         },
-        "precio": 5200
+        "precio": 520000
     },
     {
-        "id": "preferido-07",
-        "titulo": "Milanesa C/papas",
-        "imagen": "./",
+        "id": "Moto-G72",
+        "titulo": "Moto-G72",
+        "imagen": "./img/Moto-G72.png",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Milanesas"
+            "nombre": "Motorola",
+            "id": "Motorola"
         },
-        "precio": 1000
+        "precio": 130000
     },
     {
-        "id": "preferido-08",
-        "titulo": "Milanesa Grandverona",
-        "imagen": "./img/preferido08.jpg",
+        "id": "Motorola-Edge",
+        "titulo": "Motorola Edge 40",
+        "imagen": "./img/Motorola-Edge 40.png",
         "categoria": {
-            "nombre": "Preferidos",
-            "id": "Milanesas"
+            "nombre": "Motorola",
+            "id": "Motorola"
         },
-        "precio": 8000
+        "precio": 200000
     },
     {                                
-        "id": "dieta-01",
-        "titulo": "Ensalada completa",
-        "imagen": "./img/dieta01.jpg",
+        "id": "iphone14",
+        "titulo": "IPHONE 14 PRO",
+        "imagen": "./img/iphone_14_pro.jpg",
         "categoria": {
-            "nombre": "Dietas",
-            "id": "Sandwicheria"
+            "nombre": "Apple",
+            "id": "Apple"
         },
-        "precio": 1000
+        "precio": 1600 
     },
     {
-        "id": "dieta-02",
-        "titulo": "Tarta de verdura",
-        "imagen": "./img/dieta02.jpg",
+        "id": "iphone13",
+        "titulo": "IPHONE 13",
+        "imagen": "./img/iphone_13.jpg",
         "categoria": {
-            "nombre": "Dietas",
-            "id": "Sandwicheria"
+            "nombre": "Apple",
+            "id": "Apple"
         },
         "precio": 1400
     },
     {
-        "id": "dieta-03",
-        "titulo": "Pollo con ensalada de lechuga y tomate",
-        "imagen": "./img/dieta03.avif",
+        "id": "iphone12",
+        "titulo": "IPHONE 12",
+        "imagen": "./img/iphone12_pro.jpg",
         "categoria": {
-            "nombre": "Dietas",
-            "id": "Sandwicheria"
+            "nombre": "Apple",
+            "id": "Apple"
         },
         "precio": 2000
     },
     {
-        "id": "dieta-04",
-        "titulo": "Hamburguesa C/Bacon",
-        "imagen": "./img/dieta04.jpg",
+        "id": "iphonese",
+        "titulo": "IPHONE SE",
+        "imagen": "./img/iphone_se.jpg",
         "categoria": {
-            "nombre": "Dietas",
-            "id": "dSandwicheria"
+            "nombre": "Apple",
+            "id": "Apple"
         },
         "precio": 1000
     },
     {
-        "id": "dieta-05",
-        "titulo": "Hamburguesa C/cheddar",
-        "imagen": "./",
+        "id": "iphone11",
+        "titulo": "IPHONE 11",
+        "imagen": "./img/iphone11_red.jpg",
         "categoria": {
-            "nombre": "Sandwicheria",
-            "id": "Sandwicheria"
+            "nombre": "Apple",
+            "id": "Apple"
         },
         "precio": 1000
     }
